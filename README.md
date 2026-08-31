@@ -1,6 +1,6 @@
-# MudraMingle
-MudraMingle uses Flask, OpenCV, MediaPipe, and CVZone to uncover Bharatanatyam's heart—the mudras. Employing machine learning, it interprets these vital hand gestures, essential to the classical dance form
-MudraMingle is an innovative project focused on leveraging machine learning (ML) to delve into the art of Bharatanatyam through mudras—traditional hand gestures integral to this classical dance form. This Flask-based application employs computer vision using OpenCV, MediaPipe, and CVZone to detect and interpret various mudras made by the dancer's hands. The real-time visualization of recognized mudras assists in learning and practicing the intricate gestures involved in Bharatanatyam, providing insights into their meanings and significance.
+# NATYA
+NATYA uses Flask, OpenCV, MediaPipe, and CVZone to uncover Bharatanatyam's heart—the mudras. Employing machine learning, it interprets these vital hand gestures, essential to the classical dance form
+NATYA is an innovative project focused on leveraging machine learning (ML) to delve into the art of Bharatanatyam through mudras—traditional hand gestures integral to this classical dance form. This Flask-based application employs computer vision using OpenCV, MediaPipe, and CVZone to detect and interpret various mudras made by the dancer's hands. The real-time visualization of recognized mudras assists in learning and practicing the intricate gestures involved in Bharatanatyam, providing insights into their meanings and significance.
 
 
 **Key Features**:
@@ -52,10 +52,10 @@ The application utilizes a Flask web server to display the webcam feed and recog
 
 
 **Sample Output**
-:![Screenshot 2023-12-26 231705](https://github.com/sannidhayj20/MudraMingle/assets/76656957/5ee12ebc-3ce7-4f83-8922-06e0859838bf)
-![Screenshot 2023-12-26 231640](https://github.com/sannidhayj20/MudraMingle/assets/76656957/ccc0a5c8-af29-4a0b-8aef-9beb027b11d4)
-![Screenshot 2023-12-26 231622](https://github.com/sannidhayj20/MudraMingle/assets/76656957/1ac83fe9-6c22-4e8e-99fa-0d86ef3a4ab1)
-![Screenshot 2023-12-26 231723](https://github.com/sannidhayj20/MudraMingle/assets/76656957/63f057c0-b390-4697-809e-799a8664b22d)
-![Screenshot 2023-12-26 232213](https://github.com/sannidhayj20/MudraMingle/assets/76656957/9354745e-5b40-459c-bbef-7031d3578629)
+:![Screenshot 2023-12-26 231705](https://github.com/sannidhayj20/NATYA/assets/76656957/5ee12ebc-3ce7-4f83-8922-06e0859838bf)
+![Screenshot 2023-12-26 231640](https://github.com/sannidhayj20/NATYA/assets/76656957/ccc0a5c8-af29-4a0b-8aef-9beb027b11d4)
+![Screenshot 2023-12-26 231622](https://github.com/sannidhayj20/NATYA/assets/76656957/1ac83fe9-6c22-4e8e-99fa-0d86ef3a4ab1)
+![Screenshot 2023-12-26 231723](https://github.com/sannidhayj20/NATYA/assets/76656957/63f057c0-b390-4697-809e-799a8664b22d)
+![Screenshot 2023-12-26 232213](https://github.com/sannidhayj20/NATYA/assets/76656957/9354745e-5b40-459c-bbef-7031d3578629)
 
 
